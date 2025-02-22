@@ -37,3 +37,14 @@ Welcome to the **Loan Approval Learning and Technology Awareness Website**! This
 3. **Track Progress**: Monitor your learning journey through our interactive dashboard.
 4. **Earn Rewards**: Complete challenges to earn badges and bragging rights. 🏅
 5. **Share and Learn**: Connect with friends, share achievements, and learn together.
+
+## Team Members
+1. **Sumit Kumar Ranjan** team lead
+2. **Agraj Chandra** (Software Developer)
+3. **Madhav Arya**(AI/ML Engineer)
+4. **Akshit Sharma**(AI/ML Engineer)
+5. **Shubham Raj**(Application Developer)
+6. **Nisha Yadav**(Backend developer)
+7. **Kalpana Vats**(Backend Developer)
+
+   
